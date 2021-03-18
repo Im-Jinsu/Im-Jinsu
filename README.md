@@ -1,7 +1,10 @@
-### Hi there 👋  
+![image](https://user-images.githubusercontent.com/30423801/111588708-41802d80-8807-11eb-810a-bb1839a0bd06.png)  
+  
+   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIm-Jinsu&count_bg=%238CBD18&title_bg=%238E562E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 <!--
+### Hi there 👋  
 **Im-Jinsu/Im-Jinsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
